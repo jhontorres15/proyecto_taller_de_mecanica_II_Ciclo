@@ -12,9 +12,6 @@
 
 # Package Files #
 
-*.java linguist-detectable=true
-*.html linguist-detectable=false
-
 *.war
 *.nar
 *.ear
