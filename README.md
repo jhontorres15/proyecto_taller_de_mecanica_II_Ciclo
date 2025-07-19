@@ -29,3 +29,6 @@ Está diseñado para automatizar el registro y control de servicios en un taller
    java -version
 
 2. descomprime los archivos del rar y ejecuta el programa
+
+
+----------------------------------------------------------------ESTE PROYECTO ESTA ARCHIVADO-------------------------------------------------------------------------------
