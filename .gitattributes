@@ -1,0 +1,14 @@
+# Forzar a GitHub a considerar los archivos .java como detectables
+*.java linguist-detectable=true
+
+# Ignorar archivos HTML, si tienes formularios o recursos que usan HTML
+*.html linguist-detectable=false
+
+# Ignorar archivos CSS y JS si no son relevantes
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+# Ignorar archivos de recursos (imágenes, íconos, etc.)
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.ico linguist-detectable=false
